@@ -1,8 +1,8 @@
 {
-  "host": "ec2-52-48-159-67.eu-west-1.compute.amazonaws.com",
-  "database": "d9fmmgtt0bfahp",
-  "username": "pzuzwvjbgezsuu",
-  "password": "a9e1aa3694e87eab867e72c4d3d4904ea9f3b32b684c29179bea684270c6a06d",
+  "host": "ec2-52-5-110-35.compute-1.amazonaws.com",
+  "database": "d9jmh3hrg85q04",
+  "username": "qylupldyezahpg",
+  "password": "79519a3fdd0dae018b68157ff28caaf741678a245a39aca19953ab74137b54f2",
   "dialect": "postgres",
   "port": 5432,
   "dialectOptions": {

@@ -16,12 +16,12 @@ const {
 
 const config = {
     port: PORT ?? 3000,
-    cookieSecret: COOKIE_SECRET ?? "",
-    jwtAccessSecret: JWT_ACCESS_SECRET ?? "",
-    jwtRefreshSecret: JWT_REFRESH_SECRET ?? "",
-    jwtTime: JWT_TIME ?? '1m',
-    signSecret: SIGN_SECRET ?? "",
-    sealSecret: SEAL_SECRET ?? ""
+    cookieSecret: COOKIE_SECRET ?? "1",
+    jwtAccessSecret: JWT_ACCESS_SECRET ?? "2",
+    jwtRefreshSecret: JWT_REFRESH_SECRET ?? "3",
+    jwtTime: JWT_TIME ?? '1h',
+    signSecret: SIGN_SECRET ?? "4",
+    sealSecret: SEAL_SECRET ?? "5"
 }
 
 export = config

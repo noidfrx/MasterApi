@@ -1,0 +1,1 @@
+{"version":3,"file":"describe.js","sourceRoot":"","sources":["../../../router/sequelize/describe.ts"],"names":[],"mappings":";;;AACA,uCAAwC;AACxC,uCAAkC;AAClC,mDAAmD;AACnD,mDAE2B;AAEd,QAAA,cAAc,GAAiB;IACxC;QACI,MAAM,EAAE,KAAK;QACb,IAAI,EAAE,IAAA,mBAAW,EACb,eAAe,EACf,CAAC,aAAK,CAAC,KAAK,CAAC,CAChB;QACD,WAAW,EAAE,8BAAgB;QAC7B,UAAU,EAAE,0BAAY;KAC3B;CACJ,CAAA"}
