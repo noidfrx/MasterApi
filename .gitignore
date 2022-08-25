@@ -857,5 +857,4 @@ FodyWeavers.xsd
 # End of https://www.toptal.com/developers/gitignore/api/webstorm,webstorm+iml,webstorm+all,node,git,visualstudiocode,vim,visualstudio,macos
 
 #Add Project
-*.js
 models/*
